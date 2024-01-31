@@ -1,0 +1,7 @@
+{
+  "name": "pubsub",
+  "description": "",
+  "main": [
+    "dist/pubsub.js"
+  ]
+}
